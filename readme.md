@@ -1,5 +1,5 @@
-simple calculator using `nodejs` and `readline`
+<h1>Simple NodeJS Calculator</h1>
 
-`npm install` to install dependencies.
+a simple calculator that uses `readline` package to accept operations directly from the terminal. then affects the given mathematical operation.
 
-`node index.js` to start the script.
+* `readline`: **https://www.npmjs.com/package/readline**
